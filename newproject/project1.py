@@ -8,7 +8,8 @@ def main():
     if is_even(x):
         print("even")
     else:
-        print("odd")    
+        print("odd")
+    print("hello git.....") 
 def is_even(n):
     return True if n % 2 == 0 else False
 
