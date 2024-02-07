@@ -7,6 +7,10 @@ def main():
     x = get_number()
     if is_even(x):
         print("the number is even")
+        print("the number is even")
+        print("the number is even")
+        print("the number is even")
+        print("the number is even")
     else:
         print("odd")
     print("hello git.....") 
